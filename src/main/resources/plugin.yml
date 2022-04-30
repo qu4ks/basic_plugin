@@ -1,0 +1,8 @@
+name: TEMPLATE-PLUGIN
+version: '${project.version}'
+main: by.quaks.ntm.main
+api-version: 1.18
+prefix: TEMPLATE-PLUGIN
+authors: [ qu4ks ]
+description: TEMPLATE-PLUGIN
+website: TEMPLATE-PLUGIN
